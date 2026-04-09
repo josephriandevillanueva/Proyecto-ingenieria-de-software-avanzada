@@ -3,7 +3,7 @@ import io.github.cdimascio.dotenv.Dotenv;
 import java.sql.Connection;
 import java.sql.DriverManager;
 
-
+//comentario prueba
 public class Conexionbd 
 {
  private static Dotenv dotenv = Dotenv.load();
