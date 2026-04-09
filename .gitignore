@@ -1,0 +1,17 @@
+# Variables de entorno (credenciales)
+.env
+
+# Archivos compilados de Maven
+target/
+
+
+*.log
+
+.vscode/
+.idea/
+nbactions.xml
+nb-configuration.xml
+
+
+.DS_Store
+Thumbs.db
